@@ -63,5 +63,6 @@ comm4190_F25_Final_Project_Group12/
 ├── milestone_5_workflow_testing/
 │   ├── workflow_development_and_testing.ipynb
 │   └── workflow_kidtalkmirror_mermaid.png
+│   └── Kidtalk_Mirror_Model.json
 │
 └── README.md
