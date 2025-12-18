@@ -1,5 +1,5 @@
-# COMM4190 Final Project – Group 12  
-**KidTalkMirror: An AI-Supported Reflection Tool for Parent–Child Communication**
+# KidTalkMirror: An AI-Supported Reflection Tool for Parent–Child Communication
+**Presented by: Aoxin Luo, Haowei Li, Shiyang Zhang**
 
 ## Project Overview
 KidTalkMirror is an AI-assisted reflective tool designed to support parents in engaging in more empathetic, developmentally appropriate, and constructive conversations with their children. The system focuses on everyday parent–child interactions (e.g., school stress, emotional regulation, learning challenges) and provides real-time or post-conversation reflective feedback grounded in educational psychology and communication principles.
@@ -9,6 +9,9 @@ Rather than replacing parental judgment, KidTalkMirror aims to **scaffold reflec
 - Reflect on their own questioning, tone, and responses
 - Explore alternative supportive responses
 - Build healthier communication habits over time
+
+<img src="assets/KidTalkMirror.png" alt="KidTalkMirror" width="300">
+
 
 This repository documents the **end-to-end design process**, from initial ideation to prompt engineering and workflow testing, following the course milestones.
 
