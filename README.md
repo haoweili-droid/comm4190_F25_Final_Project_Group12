@@ -22,17 +22,17 @@ This folder contains individual idea pitches from each group member. Each notebo
 
 ---
 
-### [Milestone 2: Idea Selection] (milestone_2_idea_selection/)
+### [Milestone 2: Idea Selection](milestone_2_idea_selection/)
 This milestone documents the group’s concept selection and refinement process. Materials in this folder focus on comparing alternative ideas, defining the core problem and value proposition, identifying primary users and scenarios, and outlining the key functions and constraints of the selected concept, **KidTalkMirror**.
 
 ---
 
-### [Milestone 3: Prompting] (milestone_3_prompting/)
+### [Milestone 3: Prompting](milestone_3_prompting/)
 This folder contains the core prompt engineering work for KidTalkMirror. It includes a meta-prompt defining the AI’s role, tone, and constraints; scenario-based prompt development and testing; and visual prompt framework diagrams. The prompting work emphasizes empathy, non-judgmental language, and actionable reflection rather than prescriptive advice.
 
 ---
 
-### [Milestone 5: Workflow Testing] (milestone_5_workflow_testing/)
+### [Milestone 5: Workflow Testing](milestone_5_workflow_testing/)
 This milestone focuses on system-level workflow design and testing. It documents the end-to-end application flow from user input to AI-generated output, including implementation logic, testing considerations, and a visual workflow diagram illustrating how the system would function in practice.
 
 ---
