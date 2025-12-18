@@ -10,7 +10,7 @@ Rather than replacing parental judgment, KidTalkMirror aims to **scaffold reflec
 - Explore alternative supportive responses
 - Build healthier communication habits over time
 
-<img src="assets/KidTalkMirror.png" alt="KidTalkMirror" width="300">
+<img src="KidTalkMirror.png" alt="KidTalkMirror" width="300">
 
 
 This repository documents the **end-to-end design process**, from initial ideation to prompt engineering and workflow testing, following the course milestones.
