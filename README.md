@@ -17,6 +17,7 @@ This repository documents the **end-to-end design process**, from initial ideati
 ## Milestone Description
 
 ### Milestone 1: Pitch Ideas (`milestone_1_pitch_ideas/`)
+[View source code](milestone_1_pitch_ideas/)
 This folder contains individual idea pitches from each group member. Each notebook documents early-stage brainstorming, including problem identification, target users, and initial concept exploration. These ideas served as the foundation for group discussion and comparison before selecting a final project direction.
 
 ---
